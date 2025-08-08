@@ -7,3 +7,10 @@ footer{
     bottom: 0;
     position: fixed;
 }
+#container {
+    display: flex
+}
+.cartao{
+    background-color:#9E4951;
+    margin: auto;
+}
